@@ -12,3 +12,6 @@ output: md_document
 ## Language and the Brain
 
 
+## Neuroimaging
+
+- Nathan Spreng (McGill): Alzheimer's disease neuroimaging initiative (ADNI)
