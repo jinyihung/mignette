@@ -5,6 +5,7 @@ output: md_document
 
 ## R
 
+- John Muschelli (JHU): [Imaging in R](http://johnmuschelli.com/) 
 
 ## Dementia
 
@@ -15,3 +16,4 @@ output: md_document
 ## Neuroimaging
 
 - Nathan Spreng (McGill): Alzheimer's disease neuroimaging initiative (ADNI)
+
