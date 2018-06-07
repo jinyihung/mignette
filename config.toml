@@ -8,41 +8,84 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
 
-
+custom_css = ["/css/style.css"]
+    
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
     note = "/note/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "Blog"
+    name = "Home"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-[[menu.main]]
     name = "Publications"
     url = "/publication/"
+    weight = 2
+[[menu.main]]
+    name = "Blog"
+    url = "/post/"
     weight = 3
 [[menu.main]]
     name = "CV"
-    url = "/static/Hung_CV.3.2018.pdf/"
+    url = "/cv/"
     weight = 4
 [[menu.main]]
     name = "Resources"
     url = "/resource/"
     weight = 5
 
-
 [params]
     description = "Jinyi Hung"
-    subtitle = "test website"
-    googleAnalytics = ""
-    disqus = ""
-    custom_css = ["/css/style.css"]
-
-
-
+    accent = "#0078ff"
+    post_navigation = true
     GithubEdit = "https://github.com/rbind/njtierney.com/edit/master/content/"
+    font_title = "Raleway"
+    font = "Proxima Nova"
     footer = "&copy; [Jinyi Hung](https://jinyihung.netlify.com) 2018 | [Github](https://github.com/jinyihung) | [Twitter](https://twitter.com/JinyiHung)"
+
+[[params.social]]
+    icon = "paper-plane"
+    icon_pack = "fa"
+    link = "mailto:jinyihung@gmail.com"
+    weight = 1
+
+[[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "https://github.com/jinyihung/"
+    weight = 2
+
+[[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "https://twitter.com/jinyihung/"
+    weight = 3
+
+[[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    url = "https://orcid.org/0000-0001-5408-3305"
+    weight = 4
+    
+[[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Jinyi_Hung"
+    weight = 5
+    
+
+[[menu.icon]]
+    url = "mailto:jinyihung@gmail.com"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/jinyihung/"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/jinyihung/"
+    name = "twitter"
+    weight = 3

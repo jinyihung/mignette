@@ -1,13 +1,11 @@
 ---
-title: "cv"
+title: ""
 output: md_document
 ---
 
-# Jinyi Hung
 
 <-- [You can check out my CV here](./static/Hung_CV.3.2018.pdf)
 -->
-
 
 <div id="webaddress">
 <a href="mailto:jinyihung@gmail.com">jinyihung@gmail.com</a>

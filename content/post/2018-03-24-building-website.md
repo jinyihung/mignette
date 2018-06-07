@@ -7,4 +7,10 @@ categories: []
 tags: []
 ---
 
-This is what worked for me when building the website with blogdown.
+Thanks to [Dr. Nick Tierney](http://www.njtierney.com/) and [Dr. Alison Hill](https://alison.rbind.io/). I was able to modifed [HUGO XMIN](https://xmin.yihui.name/). 
+
+For some reason I was not able to build a website based on a complex template (e.g., academic) but I started to enjoy the simple template and the flexibility and challenge to modify the website to the way I want.
+
+There is still a lot to learn, especially about css, but things are coming along (I hope).
+
+Status: working on my website...

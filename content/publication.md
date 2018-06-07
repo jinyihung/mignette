@@ -1,8 +1,9 @@
 ---
-title: "publucation"
+title: ""
 output: md_document
 ---
 
+## Publication
 
 `2018` [Binney R.J., Zuckerman B.M., Waller H., **Hung J.**, Ashaie S.A., & Reilly J.  "Cathodal tDCS of the bilateral anterior temporal lobes facilitates semantically-driven verbal fluency" _Neuropsychologia_. doi: 10.1016/j.neuropsychologia.2018.01.009]()
 
