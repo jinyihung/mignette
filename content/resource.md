@@ -13,23 +13,51 @@ output: md_document
 
 - Happy Git and GitHub for the [useR](happygitwithr.com/workshops.html)
 
+- r dataset by [Vincent AB](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
+
+
 ### Neuroimaging
 
 - Nathan Spreng (McGill): Alzheimer's disease neuroimaging initiative (ADNI)
 
 - [SPM data structures](http://people.duke.edu/~njs28/spmdatastructure.htm) by Nicolette Sullivan
 
+- [NIH fMRI](https://fmrif.nimh.nih.gov/public/fmri-course) course
+
 ### Neuroinformatics
 
 - [INCF short course](https://training.incf.org/learn)
+
  
- 
- 
+- http://neuroanatomy.github.io/index.html
+
+- https://brainhackmtl.github.io/school2018/tutorials.html
+
+- http://www.scholarpedia.org/article/Brain_connectivity
+
  
 ### Dementia
 
 - The many faces of dementia [UCL](https://www.futurelearn.com/courses/faces-of-dementia)
 
+
+
 ### Language and the Brain
 
 - [Best practice recommendations](http://www.aphasiaunited.org/best-practice-recommendations/)
+
+- [The brain blog](http://www.thebrainblog.org/about-this-blog/)
+
+
+### Grant related advice
+
+https://theresearchwhisperer.wordpress.com/2018/05/15/your-first-successful-application/
+
+
+https://theresearchwhisperer.wordpress.com/2018/05/22/choosing-the-unicorns-an-ecrs-perspective-on-grant-reviews/
+
+http://www.sciencemag.org/careers/2012/05/submitting-your-best-possible-r01-application
+
+[NIH R01 toolkit](http://www.sciencemag.org/careers/2007/07/nih-r01-toolkit)
+
+

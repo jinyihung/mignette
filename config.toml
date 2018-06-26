@@ -7,8 +7,6 @@ enableEmoji = true
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
-
-custom_css = ["/css/style.css"]
     
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
@@ -37,12 +35,18 @@ custom_css = ["/css/style.css"]
 
 [params]
     description = "Jinyi Hung"
+    custom_css = ["/css/style.css"]
     accent = "#0078ff"
     post_navigation = true
     GithubEdit = "https://github.com/rbind/njtierney.com/edit/master/content/"
     font_title = "Raleway"
     font = "Proxima Nova"
     footer = "&copy; [Jinyi Hung](https://jinyihung.netlify.com) 2018 | [Github](https://github.com/jinyihung) | [Twitter](https://twitter.com/JinyiHung)"
+
+  [params.img]
+    url = "JY.jpg" 
+    width = 50
+    height = 50
 
 [[params.social]]
     icon = "paper-plane"
