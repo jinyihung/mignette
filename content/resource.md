@@ -5,6 +5,8 @@ output: md_document
 
 ### R
 
+- https://www.datasciencecentral.com/profiles/blogs/10-great-books-about-r-1
+
 - John Muschelli (JHU): [Imaging in R](http://johnmuschelli.com/) 
 
 - Computing for the Social Sciences by [Benjamin Soltoff](https://cfss.uchicago.edu/index.html)
@@ -23,6 +25,10 @@ output: md_document
 - [SPM data structures](http://people.duke.edu/~njs28/spmdatastructure.htm) by Nicolette Sullivan
 
 - [NIH fMRI](https://fmrif.nimh.nih.gov/public/fmri-course) course
+
+- [Sections on functional imaging methods](https://fim.nimh.nih.gov/)
+
+- [Data Science and Sharing Team](https://cmn.nimh.nih.gov/dsst): workshops
 
 ### Neuroinformatics
 

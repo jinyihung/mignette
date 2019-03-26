@@ -1,0 +1,26 @@
+---
+title: R Ladies meeting on building a website with blogdown
+author: ''
+date: '2018-09-13'
+slug: r-ladies-meeting-on-building-a-website-with-blogdown
+categories: []
+tags: []
+---
+
+I had my website but I ran into a few questions; mainly,
+
+1. how to upload pdf (solved)
+2. rendering problem
+3. how to sync my local computer to another local computer (I'm going to buy a new laptop and I wonder how to sync github to the new laptop)
+
+
+Here is the note for the meeting. 
+
+
+file -> create new project
+install::blogdown_hugo()
+blogdown::new_site(theme = "gcushen/hugo-academic") #a website should appear
+modify config.toml
+under content > home > you can modify whether you want the wedge appear or not
+
+

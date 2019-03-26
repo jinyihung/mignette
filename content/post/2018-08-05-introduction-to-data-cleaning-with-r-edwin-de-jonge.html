@@ -1,0 +1,31 @@
+---
+title: Introduction to data cleaning with R (Edwin de Jonge)
+author: ''
+date: '2018-08-05'
+slug: introduction-to-data-cleaning-with-r-edwin-de-jonge
+categories: []
+tags: []
+---
+
+
+
+<p>Highlight from the article</p>
+<p>Elements of a vector can be selected or replaced using the square bracket operator [ ]</p>
+<pre class="r"><code>capColor = c(huey = &quot;red&quot;, duey = &quot;blue&quot;, louie = &quot;green&quot;)
+capColor[&quot;louie&quot;]</code></pre>
+<pre><code>##   louie 
+## &quot;green&quot;</code></pre>
+<pre class="r"><code>names(capColor)[capColor == &quot;blue&quot;]</code></pre>
+<pre><code>## [1] &quot;duey&quot;</code></pre>
+<pre class="r"><code>x &lt;- c(4, 7, 6, 5, 2, 8)
+I &lt;- x &lt; 6
+J &lt;- x &gt; 7
+x[I | J]</code></pre>
+<pre><code>## [1] 4 5 2 8</code></pre>
+<pre class="r"><code>x[c(TRUE, FALSE)]</code></pre>
+<pre><code>## [1] 4 6 2</code></pre>
+<pre class="r"><code>x[c(-1, -2)]</code></pre>
+<pre><code>## [1] 6 5 2 8</code></pre>
+<p>Replacing values in vectors can be done in the same way.</p>
+<pre class="r"><code>x &lt;- 1:10
+x[c(TRUE, FALSE)] &lt;- 1</code></pre>
