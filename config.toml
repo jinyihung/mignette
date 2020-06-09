@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://jinyihung.rbind.io/"
 title = "Jinyi Hung"
 theme = "hugo-xmin"
 googleAnalytics = ""
